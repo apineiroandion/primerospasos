@@ -20,6 +20,6 @@ poner citas
 ```
 ![yoda](./images/yoda.jpeg)
 **COLORES**
-`#0969DA`
-`rgb(9, 105, 218)`
-`hsl(212, 92%, 45%)`
+#0969DA
+rgb(9, 105, 218)
+hsl(212, 92%, 45%)
